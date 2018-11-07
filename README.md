@@ -5,3 +5,4 @@ This mod is a remake of the Chocohead's mod : "Gravitation Suite" for the minecr
 ## Credits:
 original mod : https://minecraft.curseforge.com/projects/gravitation-suite
 
+http://mcmodhelp.wikia.com/wiki/Creative_Mode_Tab
